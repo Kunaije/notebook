@@ -1,1 +1,2 @@
 
+Real-time note-taking app using Vue.js via its vue-cli to build the user interface and Google's Firebase for the back-end infrastructure. This app will function as a virtual notebook where you can take notes on, as you will have a collection of pages and each page will be editable with its own title and content. The data will be kept in sync with Firebase so it remains available to you once you return.
